@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "家族になろうよ",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2026-01-13T19:52:08.360324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "家族になろうよ - Kazokuninarouyo",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/01_家族になろうよ_-_Kazokuninarouyo_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "家族になろうよ",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/02_家族になろうよ_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "家族になろうよ",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/03_家族になろうよ_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": true,
+      "path": "select/04_家族になろうよ_福山_雅治.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "家族になろうよ",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/05_家族になろうよ_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_02_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_03_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_04_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_05_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_06_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_07_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_08_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_09_家族になろうよ_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "家族になろうよ",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_10_家族になろうよ_福山_雅治.txt"
+    }
+  ]
+}
